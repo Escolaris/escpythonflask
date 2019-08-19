@@ -1,0 +1,6 @@
+C:\Users\Administrador\AppData\Local\Programs\Python\Python37-32
+
+C:\Users\Administrador\AppData\Local\Programs\Python\Python37-32\Lib\site-packages
+
+
+http://127.0.0.1:5000/
